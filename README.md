@@ -3,6 +3,10 @@
 👋 Hi! I'm **Niraj Kumar**, a passionate **Full Stack Developer** and growing **Java Backend Developer**.  
 This portfolio showcases my **projects, skills, blog insights, and ways to connect** with me.
 
+Live Portfolio Link:  
+🔗 *https://your-username.github.io/portfolio/*  
+(Replace with your actual deployed link)
+
 
 ## 🚀 Tech Stack
 
