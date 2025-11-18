@@ -53,6 +53,4 @@ This portfolio showcases my **projects, skills, blog insights, and ways to conne
 
 ---
 
-## 📁 Folder Structure
-# portfolio
-My portfolio Website 
+ 
