@@ -4,7 +4,7 @@
 This portfolio showcases my **projects, skills, blog insights, and ways to connect** with me.
 
 Live Portfolio Link:  
-🔗 *https://your-username.github.io/portfolio/*  
+🔗 [*https://your-username.github.io/portfolio/*](https://student-nirajkumar.github.io/portfolio/)  
 (Replace with your actual deployed link)
 
 
